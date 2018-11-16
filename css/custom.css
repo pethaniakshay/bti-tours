@@ -1,0 +1,14 @@
+/* Add here all your CSS customizations */
+.new{
+	margin-bottom: 50px !important;
+}
+
+
+.section-instagram{
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+
+.home-1 #main-nav > ul > li > a.active{
+	color: #0b83fe;
+}
