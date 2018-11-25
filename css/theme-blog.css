@@ -1,11 +1,6 @@
 /*------------------------------------------------------------------
 [Blog Stylesheet]
 
-Template Name  	: Unisa
-Description 	: Unisa Responsive HTML Template
-Author      	: TivaTheme
-Version     	: 1.0
-Created     	: 15/09/2018
 -------------------------------------------------------------------*/
 
 /*------------------------------------------------------------------
@@ -195,7 +190,7 @@ Created     	: 15/09/2018
   margin-bottom: 30px;
   padding: 30px;
   background-color: #FFFFFF;
-  text-align: left; }
+  text-align: center; }
   .rtl .blog-posts .post-medium {
     text-align: right; }
   .blog-posts .post-medium .post-meta {
@@ -225,7 +220,8 @@ Created     	: 15/09/2018
 
 .blog-fullwidth, .blog-fullwidth post-date {
   color: #999999;
-  font-size: 14px; }
+  font-size: 22px;
+  font-weight: 700; }
 
 .blog-fullwidth .post-content {
   margin-top: 15px; }
