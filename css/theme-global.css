@@ -2231,9 +2231,7 @@ h1 {
 	-webkit-box-shadow: 0 .375pc 1.25pc rgba(0, 0, 0, .175);
 }
 
-[class~=columns-container] {
-	padding-bottom: 37.5pt;
-}
+
 
 #main-nav>ul>li>a,
 #off-mainmenu .dropdown-menu.tiva-active ul li a {
@@ -2319,7 +2317,7 @@ h1 {
 }
 
 [class~=section] {
-	padding-top: 7.5pc;
+	padding-top: 50px;
 }
 
 

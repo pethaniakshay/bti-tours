@@ -12,3 +12,9 @@
 .home-1 #main-nav > ul > li > a.active{
 	color: #0b83fe;
 }
+
+@media (min-width: 280px) and (max-width: 480px){
+	.product-container .label{
+		font-size: 10px;
+	}
+}
