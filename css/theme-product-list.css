@@ -1,12 +1,4 @@
-/*------------------------------------------------------------------
-[Product List Stylesheet]
 
-Template Name  	: Unisa
-Description 	: Unisa Responsive HTML Template
-Author      	: TivaTheme
-Version     	: 1.0
-Created     	: 15/09/2018
--------------------------------------------------------------------*/
 
 /*------------------------------------------------------------------
 [Table of contents]
@@ -39,7 +31,7 @@ Created     	: 15/09/2018
     text-transform: uppercase;
     padding: 7px 10px;
     color: #FFFFFF;
-    line-height: 10px;
+    line-height: 15px;
     min-width: 40px;
     text-align: center;
     -webkit-border-radius: 0.2rem;
