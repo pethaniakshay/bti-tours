@@ -28,3 +28,9 @@
 .ltc li{
 	font-size: 18px;
 }
+
+.slider1 .item img{
+	width: 100%;
+	height: auto;
+}
+

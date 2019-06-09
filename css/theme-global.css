@@ -12806,3 +12806,22 @@ span[class~=jslider][class~=jslider_plastic] [class~=jslider-value][class~=jslid
 .section-testimoniol{
 	padding-bottom: 50px;
 }
+
+.review-img{
+	width: 100%;
+	height: auto;
+}
+
+.whatsapp-section{
+	padding: 50px 0px;
+}
+
+
+.whatsapp-section h4{
+	font-family: "Montserrat", sans-serif;
+	text-align: center;
+	font-weight: 300;
+	font-size: 30pt;
+	line-height: .520833333in;
+	margin-bottom: .15625in;
+}
