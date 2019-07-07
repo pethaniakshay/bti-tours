@@ -34,3 +34,11 @@
 	height: auto;
 }
 
+.slider2 .item img{
+	width: 100%;
+	height: auto;
+}
+
+.text-content{
+	padding-bottom: 50px; 
+}
